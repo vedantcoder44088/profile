@@ -23,7 +23,7 @@
 - **Data Analysis Bootcamp:** Enhanced my skills in Excel, Python Pandas, SQL, and Power BI development.
 
 ## 🌐 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/patel-vedant-kp/)
+- [LinkedIn]([https://www.linkedin.com/in/patel-vedant-kp/](https://www.linkedin.com/in/vedant-patel-kp/))
 
 Feel free to connect with me to explore potential collaborations, discuss coding, trading strategies, or share exciting ideas. Let's embark on a journey of growth and learning together!
 
